@@ -2,11 +2,6 @@ from pygame import *
 from random import *
 
 # set window and backround
-
-
-
-
-
 window = display.set_mode((700, 500))
 background = transform.scale(image.load('galaxy.jpg'), (700, 500))
 
